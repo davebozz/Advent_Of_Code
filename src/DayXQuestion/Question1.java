@@ -1,4 +1,4 @@
-package DayQuestion;
+package DayXQuestion;
 
 import java.io.File;
 import java.io.FileNotFoundException;

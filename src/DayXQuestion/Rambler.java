@@ -1,4 +1,4 @@
-package DayQuestion;
+package DayXQuestion;
 
 public class Rambler {
 	
