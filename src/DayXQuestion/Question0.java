@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Question1 {
+public class Question0 {
 
 	public static void main(String[] args) {
 		

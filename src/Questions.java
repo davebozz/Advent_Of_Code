@@ -5,7 +5,7 @@ public class Questions {
 
 	public static void main(String[] args) {
 		
-		Question1 question = new Question1();
+		Question0 question = new Question0();
 
 	}
 
