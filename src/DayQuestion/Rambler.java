@@ -1,3 +1,5 @@
+package DayQuestion;
+
 public class Rambler {
 	
 	private int x = 0;
