@@ -1,13 +1,13 @@
 package DayXQuestion;
 
-import java.io.File;
+import java.io.File; 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Question0 {
 
-	public static void main(String[] args) {
+	public static void main() {
 		
 		//Declare ArrayLists for moves
 		ArrayList<String> letterMoves = new ArrayList<String>();
