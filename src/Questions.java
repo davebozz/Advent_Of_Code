@@ -1,11 +1,12 @@
-import DayXQuestion.Question1;
+import DayXQuestion.Question0;
 
 
 public class Questions {
 
 	public static void main(String[] args) {
 		
-		Question0 question = new Question0();
+		//Question 1
+		Question0.main();
 
 	}
 
