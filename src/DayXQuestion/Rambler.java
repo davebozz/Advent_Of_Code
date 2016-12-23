@@ -5,10 +5,21 @@ public class Rambler {
 	private int x = 0;
 	private int y = 0;
 	
+	private int id = 0;
 	private String direction = "N";
 	
 	
 	//Accessors & Mutators
+	protected int getId()
+	{
+		return this.id;
+	}
+	
+	protected void setId(int id)
+	{
+		this.id = id;
+	}
+	
 	protected int getX()
 	{
 		return this.x;
